@@ -1,0 +1,43 @@
+.header {
+    margin-bottom: 40px;
+}
+
+.line {
+    margin: 0 0;
+}
+
+/* Main content */
+/* Start product header */
+.product-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-header .more_feature {
+    display: flex;
+    gap: 20px;
+}
+
+.product-header .more_feature p {
+    font-size: 18px;
+    color: var(--text-color-primary-200);
+}
+
+.product-header .more_feature p span {
+    margin-right: 5px;
+    font-weight: 500;
+}
+
+.product-header .more_feature p a {
+    color: var(--text-color-primary-200);
+    font-size: 18px;
+}
+
+.product-header .more_feature p a:hover {
+    color: var(--text-color-primary-600);
+    transition: all 0.3s ease;
+}
+/* End product header */
+
+
+/* end Main content */

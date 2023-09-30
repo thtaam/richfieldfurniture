@@ -1,0 +1,38 @@
+.delivery-title {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: var(--primary-color-600);
+    margin-bottom: 25px;
+}
+
+.delivery-title h1 {
+    color: #fff;
+    font-size: 40px;
+    letter-spacing: .1rem;
+}
+
+.delivery-title p{
+    color: #fff;
+    font-size: 16px;
+}
+
+.delivery-content {
+    line-height: 1.4;
+}
+
+.delivery-content h1 {
+    margin-bottom: 15px;
+}
+
+.delivery-content ul{
+    margin: 0 0 20px;
+    font-size: 18px;
+    list-style: inside;
+    padding-left: 15px;
+}
+
+.delivery-content p {
+    margin: 0 0 20px;
+    font-size: 18px;
+}
